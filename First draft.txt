@@ -1,0 +1,32 @@
+Power saving
+
+- Switch off lights when no one is in the room
+ 
+- Send requests to weather API's to regulate the room based on the data received (Regulate different rooms based on data received from API's)
+
+- Specify a time to switch off all the unnecessary items(example, the blinds should be closed at 10pm).
+
+- We have a report of energy use and we can show the user
+
+- May be reduce brightness of light when turned on when it senses that it is day/try to switch off automatically sockets which aren't in use. 
+
+- 
+
+
+
+
+List of materials
+
+ - ESP's or other microcontrollers with integrated wifi or Bluetooth
+ - Movement sensors
+ - Led's
+ - Wires
+ - Relay
+ - microcontroller with voltmeter and ammeter
+ - temperature sensor
+ - LCD's
+ - Sockets
+
+
+
+NOTE: ESP has 2 syntaxes, either Arduino or the ESP syntax. However, both syntaxes works but ESP is stronger than Arduino.
